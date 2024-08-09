@@ -1,0 +1,15 @@
+,correlation,p_value,number_of_mutations
+all,0.8973900261000244,1.1988062705512989e-67,187.0
+conservative,0.990690955112127,2.0027109964295727e-06,8.0
+mild_ddEa_effect_window_1.5,0.8759219354271948,1.6411678376841146e-31,96.0
+mild_ddEa_effect_window_1,0.8829065916977223,2.463268007110511e-26,77.0
+mild_ddEa_effect_window_0.5,0.752252707317162,3.924681048213819e-09,44.0
+mild_ddEa_effect_window_0.2,0.7444709726907103,0.00010866765775114128,21.0
+mild_ddEa_effect_window_0.1,0.7684771273408083,0.0034982802341429107,12.0
+mild_ddEa_effect_window_0.05,0.38618725391924685,0.5208025546763164,5.0
+conservative_and_mild_ddEa_effect_window_1.5,0.965832553339547,0.007542481276011721,5.0
+conservative_and_mild_ddEa_effect_window_1,0.999992887193262,0.0024011311535352465,3.0
+conservative_and_mild_ddEa_effect_window_0.5,0.999992887193262,0.0024011311535352465,3.0
+conservative_and_mild_ddEa_effect_window_0.2,,,
+conservative_and_mild_ddEa_effect_window_0.1,,,
+conservative_and_mild_ddEa_effect_window_0.05,,,

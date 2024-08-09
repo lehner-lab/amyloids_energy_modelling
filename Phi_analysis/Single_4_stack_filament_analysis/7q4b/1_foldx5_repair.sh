@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /lustre/scratch126/gengen/projects/amyloid_beta_epistasis/FoldX_Ab/7q4b/
+/software/team354/FoldX5/foldx_20241231 -c RepairPDB  --pdb=./7q4b_4_stack.pdb
